@@ -1,2 +1,3 @@
 # Falling-Blocks
-Falling block game
+
+`mvn clean javafx:run`
